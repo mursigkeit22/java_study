@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70e6f082-3f60-4655-a9c6-9791ae2a2ee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkdCMYWigswaoxwg4LZwAydgPP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../restapi" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.duke.week2.assignments.seconds" />
+      <recent name="edu.duke.week2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ListsMethods">
+    <configuration name="AllGenesBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.week2.AllGenesBreak" />
+      <module name="duke_university_coursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.week2.assignments.seconds.GeneTests" />
+      <module name="duke_university_coursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.week2.assignments.seconds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.week2.learning.ListsMethods" />
+      <module name="duke_university_coursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.week2.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.week2.learning.MathTest" />
+      <module name="duke_university_coursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.week2.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whatIsItWithInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.duke.week2.learning.whatIsItWithInt" />
+      <module name="duke_university_coursera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.duke.week2.learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListsMethods" />
+        <item itemvalue="Application.whatIsItWithInt" />
+        <item itemvalue="Application.AllGenesBreak" />
+        <item itemvalue="Application.GeneTests" />
+        <item itemvalue="Application.MathTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e6f082-3f60-4655-a9c6-9791ae2a2ee1" name="Default Changelist" comment="" />
+      <created>1581593897854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581593897854</updated>
+      <workItem from="1581593903865" duration="1718000" />
+      <workItem from="1581597812290" duration="1749000" />
+      <workItem from="1581600216072" duration="1647000" />
+      <workItem from="1581603584008" duration="892000" />
+      <workItem from="1581609393977" duration="2159000" />
+      <workItem from="1581614751757" duration="1002000" />
+      <workItem from="1581654874561" duration="1886000" />
+      <workItem from="1581656907618" duration="596000" />
+      <workItem from="1581661099129" duration="1839000" />
+      <workItem from="1581662983220" duration="812000" />
+      <workItem from="1581665572852" duration="1778000" />
+      <workItem from="1581667392859" duration="1768000" />
+      <workItem from="1581669214254" duration="1558000" />
+      <workItem from="1581678385129" duration="1758000" />
+      <workItem from="1581681701217" duration="1773000" />
+      <workItem from="1581684635981" duration="1619000" />
+      <workItem from="1581688878853" duration="861000" />
+      <workItem from="1581690688319" duration="735000" />
+      <workItem from="1581694134492" duration="1304000" />
+      <workItem from="1581696376248" duration="1561000" />
+      <workItem from="1581744403189" duration="1755000" />
+      <workItem from="1581747960722" duration="1738000" />
+      <workItem from="1581752365619" duration="1772000" />
+      <workItem from="1581754253405" duration="1774000" />
+      <workItem from="1581756282982" duration="1556000" />
+      <workItem from="1581774161762" duration="1765000" />
+      <workItem from="1581775970719" duration="1246000" />
+      <workItem from="1581902967607" duration="1760000" />
+      <workItem from="1581904767558" duration="1373000" />
+      <workItem from="1581906586107" duration="2156000" />
+      <workItem from="1581922593512" duration="1568000" />
+      <workItem from="1581925611050" duration="2130000" />
+      <workItem from="1581928009710" duration="1610000" />
+      <workItem from="1581941753826" duration="1775000" />
+      <workItem from="1581943572964" duration="1000000" />
+      <workItem from="1581947042101" duration="2169000" />
+      <workItem from="1581950586470" duration="1715000" />
+      <workItem from="1581953026317" duration="1970000" />
+      <workItem from="1581955036441" duration="1388000" />
+      <workItem from="1581999170696" duration="1631000" />
+      <workItem from="1582003414454" duration="1762000" />
+      <workItem from="1582005228823" duration="1766000" />
+      <workItem from="1582007053608" duration="982000" />
+      <workItem from="1582008885499" duration="1332000" />
+      <workItem from="1582027889344" duration="1075000" />
+      <workItem from="1582029723790" duration="1499000" />
+      <workItem from="1582031677411" duration="1746000" />
+      <workItem from="1582033494166" duration="1786000" />
+      <workItem from="1582035396566" duration="1990000" />
+      <workItem from="1582037748311" duration="1523000" />
+      <workItem from="1582041493482" duration="1155000" />
+      <workItem from="1582082299510" duration="1624000" />
+      <workItem from="1582084126278" duration="1683000" />
+      <workItem from="1582085932695" duration="1581000" />
+      <workItem from="1582087749338" duration="1805000" />
+      <workItem from="1582091546458" duration="1699000" />
+      <workItem from="1582093503367" duration="2009000" />
+      <workItem from="1582096715396" duration="238000" />
+      <workItem from="1582109523568" duration="1806000" />
+      <workItem from="1582111969662" duration="1253000" />
+      <workItem from="1582115196737" duration="1783000" />
+      <workItem from="1582129488627" duration="1630000" />
+      <workItem from="1582169735129" duration="1043000" />
+      <workItem from="1582171765048" duration="1787000" />
+      <workItem from="1582173579231" duration="689000" />
+      <workItem from="1582176388618" duration="878000" />
+      <workItem from="1582178387723" duration="1730000" />
+      <workItem from="1582180204431" duration="1387000" />
+      <workItem from="1582182161658" duration="1797000" />
+      <workItem from="1582185406759" duration="1500000" />
+      <workItem from="1582187254630" duration="2165000" />
+      <workItem from="1582201142432" duration="2119000" />
+      <workItem from="1582203293662" duration="1219000" />
+      <workItem from="1582205107386" duration="1885000" />
+      <workItem from="1582207908255" duration="813000" />
+      <workItem from="1582214746900" duration="1247000" />
+      <workItem from="1582219107835" duration="690000" />
+      <workItem from="1582609200523" duration="1153000" />
+      <workItem from="1582611022741" duration="597000" />
+      <workItem from="1582612838736" duration="595000" />
+      <workItem from="1582619031809" duration="1195000" />
+      <workItem from="1582635156917" duration="454000" />
+      <workItem from="1582643172475" duration="774000" />
+      <workItem from="1582645456004" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1586343262882">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586343262882" />
+    <state width="1236" height="111" key="GridCell.Tab.0.bottom" timestamp="1583820137394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="111" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583820137394" />
+    <state width="1236" height="111" key="GridCell.Tab.0.center" timestamp="1583820137394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="111" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583820137394" />
+    <state width="1236" height="111" key="GridCell.Tab.0.left" timestamp="1583820137394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="111" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583820137394" />
+    <state width="1236" height="111" key="GridCell.Tab.0.right" timestamp="1583820137394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="111" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583820137394" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586335749754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586335749754" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586343248484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586343248484" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/duke/week2/assignments/firsts/Part1Part2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

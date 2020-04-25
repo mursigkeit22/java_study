@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c686ff8-f89b-42d7-9ab2-bb98e65ba906" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHpftUDodso0OdGW2s44frMEbz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/block5/src/homework/better_version" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="classwork" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mein\study\JJava\geekbrains_java_beginners\block5\src\homework\better_version" />
+      <recent name="C:\mein\study\JJava\geekbrains_java_beginners\block5\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BufferStringUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.BufferStringUse" />
+      <module name="block5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Main" />
+      <module name="block5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.better_version.Main" />
+      <module name="block5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.better_version.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.Main" />
+      <module name="block4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.better_version.Main" />
+      <module name="block4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.better_version.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.StringCreation" />
+      <module name="block5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.TimeTest" />
+      <module name="block5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.BufferStringUse" />
+        <item itemvalue="Application.StringCreation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c686ff8-f89b-42d7-9ab2-bb98e65ba906" name="Default Changelist" comment="" />
+      <created>1586402479310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586402479310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587135128833">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587135128833" />
+    <state x="765" y="35" key="#com.intellij.ide.util.MemberChooser" timestamp="1587551686001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="35" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587551686001" />
+    <state x="443" y="210" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586802867269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="210" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1586802867269" />
+    <state x="627" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587141783229">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="627" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1587141783229" />
+    <state width="1236" height="160" key="GridCell.Tab.0.bottom" timestamp="1587555738773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587555738773" />
+    <state width="1236" height="160" key="GridCell.Tab.0.center" timestamp="1587555738773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587555738773" />
+    <state width="1236" height="160" key="GridCell.Tab.0.left" timestamp="1587555738773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587555738773" />
+    <state width="1236" height="160" key="GridCell.Tab.0.right" timestamp="1587555738773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587555738773" />
+    <state width="598" height="201" key="GridCell.Tab.1.bottom" timestamp="1586425372226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586425372226" />
+    <state width="598" height="201" key="GridCell.Tab.1.center" timestamp="1586425372226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586425372226" />
+    <state width="598" height="201" key="GridCell.Tab.1.left" timestamp="1586425372226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586425372226" />
+    <state width="598" height="201" key="GridCell.Tab.1.right" timestamp="1586425372226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586425372226" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1587530983847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587530983847" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587140593382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1587140593382" />
+    <state x="729" y="100" width="458" height="480" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586759191143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="729" y="100" width="458" height="480" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1586759191143" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587530913754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587530913754" />
+    <state x="91" y="0" key="new project wizard" timestamp="1587530975131">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587530975131" />
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586925210589">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1586925210589" />
+  </component>
+</project>

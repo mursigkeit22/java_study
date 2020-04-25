@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a9156b5-0cdb-4b52-bff8-0dfb032a4686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lera/shel/myfirstspringproject/TestRequestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lera/shel/myfirstspringproject/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lera/shel/myfirstspringproject/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lera/shel/myfirstspringproject/SpringBootBootstrapLiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lera/shel/myfirstspringproject/SpringBootBootstrapLiveTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YUJlzXjewHbHrFCjt8bo9QXMew" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kalitero/hottah-develop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lera.shel.myfirstspringproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyFirstSpringProjectApplication">
+    <configuration name="SpringBootBootstrapLiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-first-spring-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lera.shel.myfirstspringproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lera.shel.myfirstspringproject" />
+      <option name="MAIN_CLASS_NAME" value="lera.shel.myfirstspringproject.SpringBootBootstrapLiveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBootstrapLiveTest.whenCreateNewBook_thenCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-first-spring-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lera.shel.myfirstspringproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lera.shel.myfirstspringproject" />
+      <option name="MAIN_CLASS_NAME" value="lera.shel.myfirstspringproject.SpringBootBootstrapLiveTest" />
+      <option name="METHOD_NAME" value="whenCreateNewBook_thenCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBootstrapLiveTest.whenDeleteCreatedBook_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-first-spring-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lera.shel.myfirstspringproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lera.shel.myfirstspringproject" />
+      <option name="MAIN_CLASS_NAME" value="lera.shel.myfirstspringproject.SpringBootBootstrapLiveTest" />
+      <option name="METHOD_NAME" value="whenDeleteCreatedBook_thenOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBootstrapLiveTest.whenInvalidBook_thenError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-first-spring-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lera.shel.myfirstspringproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lera.shel.myfirstspringproject" />
+      <option name="MAIN_CLASS_NAME" value="lera.shel.myfirstspringproject.SpringBootBootstrapLiveTest" />
+      <option name="METHOD_NAME" value="whenInvalidBook_thenError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootBootstrapLiveTest.whenUpdateCreatedBook_thenUpdated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-first-spring-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lera.shel.myfirstspringproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lera.shel.myfirstspringproject" />
+      <option name="MAIN_CLASS_NAME" value="lera.shel.myfirstspringproject.SpringBootBootstrapLiveTest" />
+      <option name="METHOD_NAME" value="whenUpdateCreatedBook_thenUpdated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstSpringProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="my-first-spring-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lera.shel.myfirstspringproject.MyFirstSpringProjectApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenCreateNewBook_thenCreated" />
+      <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenInvalidBook_thenError" />
+      <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenUpdateCreatedBook_thenUpdated" />
+      <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenDeleteCreatedBook_thenOk" />
+      <item itemvalue="Spring Boot.MyFirstSpringProjectApplication" />
+      <item itemvalue="JUnit.SpringBootBootstrapLiveTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest" />
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenDeleteCreatedBook_thenOk" />
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenUpdateCreatedBook_thenUpdated" />
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenInvalidBook_thenError" />
+        <item itemvalue="JUnit.SpringBootBootstrapLiveTest.whenCreateNewBook_thenCreated" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a9156b5-0cdb-4b52-bff8-0dfb032a4686" name="Default Changelist" comment="" />
+      <created>1582991394164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582991394164</updated>
+      <workItem from="1582991406181" duration="42937000" />
+      <workItem from="1583311518119" duration="688000" />
+      <workItem from="1583321744912" duration="1782000" />
+      <workItem from="1583326524466" duration="1777000" />
+      <workItem from="1583329318395" duration="1782000" />
+      <workItem from="1583332324057" duration="1811000" />
+      <workItem from="1583394415825" duration="1770000" />
+      <workItem from="1583396266164" duration="1782000" />
+      <workItem from="1583398091469" duration="1247000" />
+      <workItem from="1583407890125" duration="1782000" />
+      <workItem from="1583409720673" duration="1772000" />
+      <workItem from="1583411565098" duration="1714000" />
+      <workItem from="1583413376727" duration="1714000" />
+      <workItem from="1583416320959" duration="1686000" />
+      <workItem from="1583430377129" duration="1464000" />
+      <workItem from="1583470708112" duration="1758000" />
+      <workItem from="1583472500566" duration="1863000" />
+      <workItem from="1583479907486" duration="1777000" />
+      <workItem from="1583492725846" duration="1539000" />
+      <workItem from="1583569752080" duration="1113000" />
+      <workItem from="1583573194805" duration="633000" />
+      <workItem from="1583574136443" duration="19000" />
+      <workItem from="1583599520399" duration="657000" />
+      <workItem from="1583600410440" duration="596000" />
+      <workItem from="1583741457724" duration="599000" />
+      <workItem from="1584624146636" duration="962000" />
+      <workItem from="1584683828553" duration="51000" />
+      <workItem from="1584697880067" duration="1557000" />
+      <workItem from="1584808262760" duration="76000" />
+      <workItem from="1584808388929" duration="215000" />
+      <workItem from="1585644247004" duration="7312000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1583413292085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583413292085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585645467310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585645467310" />
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1585653887077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585653887077" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1585653887077">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585653887077" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state width="1237" height="211" key="GridCell.Tab.1.bottom" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state width="1237" height="211" key="GridCell.Tab.1.center" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state width="1237" height="211" key="GridCell.Tab.1.left" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state width="1237" height="211" key="GridCell.Tab.1.right" timestamp="1585653887078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="211" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585653887078" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1584808591433">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584808591433" />
+    <state x="346" y="96" width="591" height="488" key="find.popup" timestamp="1584699271187">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="96" width="591" height="488" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1584699271187" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585645369761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585645369761" />
+  </component>
+</project>
